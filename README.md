@@ -56,4 +56,4 @@ Tagline
 
 One place to run and manage your AI workflows.
 
-DOWNLOAD: 
+DOWNLOAD: https://github.com/baboo2000o7jj/AI-Command-Center/releases/tag/AI-Command-Center
