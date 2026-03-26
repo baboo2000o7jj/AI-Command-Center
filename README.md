@@ -7,7 +7,7 @@ It is suitable for projects related to markets, research, productivity, and pers
 
 Features
 
-Launching and managing AI agents
+Launching and managing AI agents 
 
 Automated tasks and triggers
 
